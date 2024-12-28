@@ -9,7 +9,7 @@ export const shoes = [
   },
   {
     id: 2,
-    image: ".https://alib2004.github.io/shoes-shop/data/img/2.jpg",
+    image: "https://alib2004.github.io/shoes-shop/data/img/2.jpg",
     title: "Chaussure Samba OG",
     price : 80.55,
     brand: "adidas",
