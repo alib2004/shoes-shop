@@ -1,4 +1,4 @@
-import { shoes } from "./data/data.js";
+import { shoes } from "https://alib2004.github.io/shoes-shop/data/data.js";
 let $ = document;
 let products = $.querySelector(".products-div");
 shoes.map((item) => {
